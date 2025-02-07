@@ -1,0 +1,13 @@
+name = "Xuefeng_Yomi_Modpack"
+author = "AzureCrab"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4e113b82f8963cdbae58141d78e25f99ff99e5f29e9ffefce6fa4698328db7c9"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
