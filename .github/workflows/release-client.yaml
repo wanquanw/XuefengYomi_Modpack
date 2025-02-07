@@ -48,10 +48,10 @@ jobs:
       - name: List files in the repository
         run: |
             ls ${{ github.workspace }}  
-      - name: 重命名HMCL配置和options
-        run: |
-          mv .hmclversion.cfg hmclversion.cfg
-          mv .options.txt options.txt
+      # - name: 重命名HMCL配置和options
+      #   run: |
+      #     mv .hmclversion.cfg hmclversion.cfg
+      #     mv .options.txt options.txt
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}/Linux\ 64-bit\ x86
