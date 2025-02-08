@@ -1,12 +1,12 @@
 name = "Xuefeng_Yomi_Modpack"
 author = "AzureCrab"
-version = "1.0.0"
+version = "beta-0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4e113b82f8963cdbae58141d78e25f99ff99e5f29e9ffefce6fa4698328db7c9"
+hash = "189c573565ef5489d7f1085e82e36485989e9a00eba047ef14a0544d91b35edb"
 
 [versions]
 forge = "14.23.5.2860"
