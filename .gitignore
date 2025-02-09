@@ -8,3 +8,9 @@
 !/options.txt
 !/optionsof.txt
 !/pack.toml
+!/.packwizignore
+!/install_java.*
+!/start.bat
+!/start.ps1
+!/start.sh
+!/variables.txt
