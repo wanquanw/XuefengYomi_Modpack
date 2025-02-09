@@ -92,7 +92,7 @@ jobs:
           FORGE_URL="https://maven.minecraftforge.net/net/minecraftforge/forge/$MINECRAFT-$FORGE/forge-$MINECRAFT-$FORGE-installer.jar"
           echo "$FORGE_URL"
           echo "$SERVER_JAR_URL"
-          curl -L -o "${{ github.workspace }}/main/forge-installer.jar" "$FORGE_URL"
+          curl -L -o "${{ github.workspace }}/main/forge.jar" "$FORGE_URL"
       - name: list remained files & mods
         run: |
           ls ${{ github.workspace }}/main
