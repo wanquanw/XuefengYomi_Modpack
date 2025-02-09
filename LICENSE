@@ -2,6 +2,8 @@ This project includes these third party parts:
 1. forge: MIT
     - Copyright (c) 2015-2017 Thomas Boerger <thomas@webhippie.de>
     - [license detail](https://github.com/dockhippie/minecraft-forge/blob/master/LICENSE)
+2. Minecraft-Mod-Language-Package : Attribution-NonCommercial-ShareAlike 4.0 International
+    - [license detail](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/blob/main/LICENSE)
 
 Codes of this project defaults to MIT license:
 

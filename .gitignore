@@ -2,6 +2,9 @@
 !/.github
 !/config
 !/mods
+!/resourcepacks
+/resourcepacks/*
+!/resourcepacks/Minecraft-Mod-Language-Modpack.zip
 !/scripts
 !/.clientonlymodlist
 !/.gitignore
