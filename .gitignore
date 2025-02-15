@@ -6,6 +6,7 @@
 /resourcepacks/*
 !/resourcepacks/Minecraft-Mod-Language-Modpack.zip
 !/scripts
+!/shaderpacks
 !/.clientonlymodlist
 !/.gitignore
 !/index.toml
@@ -19,4 +20,4 @@
 !/start.sh
 !/variables.txt
 !/LICENSE
-!/README.md
+!/请读我.txt
