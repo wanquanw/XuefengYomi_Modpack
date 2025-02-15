@@ -68,6 +68,7 @@ jobs:
           ./packwiz curseforge export
           mv *.zip ../modpack.zip
           unzip ../modpack.zip -d ../lite-release
+          mkdir ../click_to_run_release
           mv ../modpack.zip ../click_to_run_release/
           ls ..
       - name: Workaround actions/upload-artifact#176
