@@ -2,8 +2,8 @@
 !/.github
 !/config
 !/mods
+/mods/1.12.2
 !/resourcepacks
-/resourcepacks/*
 !/resourcepacks/Minecraft-Mod-Language-Modpack.zip
 !/scripts
 !/shaderpacks

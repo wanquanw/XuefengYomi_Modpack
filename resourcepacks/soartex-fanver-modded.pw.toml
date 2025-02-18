@@ -1,0 +1,13 @@
+name = "Soartex Fanver - Modded"
+filename = "Soartex_Fanver_Modded_Universal_(1.12.x).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56c3851564dfca179a00f28e9efc068265b6284b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4576546
+project-id = 227770
