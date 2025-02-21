@@ -387,3 +387,8 @@ hash = "92dc48375a5767c112c7d80620c2b9934eed86954a2ecb088579fff58d12603b"
 [[files]]
 file = "optionsof.txt"
 hash = "69d77f63573a66106a65d5f8f87596b663db44ce0c0bff0f98350a1ba22913df"
+
+[[files]]
+file = "resourcepacks/soartex-fanver-modded.pw.toml"
+hash = "b6d20527627fabc8cd2f9b51c537f6baec6f67db0f6bc5606d0691e6132898c6"
+metafile = true
