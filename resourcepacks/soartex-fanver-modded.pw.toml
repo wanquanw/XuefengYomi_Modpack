@@ -1,13 +1,13 @@
 name = "Soartex Fanver - Modded"
-filename = "Soartex_Fanver_Modded_Universal_(1.12.x).zip"
+filename = "Soartex_Fanver_Universal_1.12.x_2020_11_27.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "56c3851564dfca179a00f28e9efc068265b6284b"
+hash = "668c5297844cb897da4af403ea88f967922bfc2b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4576546
+file-id = 3124831
 project-id = 227770
